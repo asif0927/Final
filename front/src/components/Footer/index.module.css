@@ -1,0 +1,15 @@
+.footer{
+    margin-top: 170px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.span{
+    color: blue;
+}
+.p{
+    color: white;
+}
